@@ -1,54 +1,103 @@
-<<<<<<< HEAD
-# Welcome to your Expo app 👋
+# 💰 Finance Calculator
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+A simple and efficient **Android Finance Calculator** built with **React.js**, designed for shopkeepers and small businesses to perform everyday financial calculations quickly and accurately.
 
-## Get started
+## 📱 Features
 
-1. Install dependencies
+The app provides multiple financial calculators in one place:
+
+### 💵 Interest Calculator
+
+* Calculate simple interest instantly.
+* Quick and easy input for principal amount, interest rate, and time.
+
+### 🏦 EMI Calculator
+
+* Calculate future EMI payments based on:
+
+  * Loan Amount
+  * Interest Rate
+  * Loan Tenure
+* View estimated monthly installments before taking a loan.
+
+### 🧾 Chit / Discount / GST Calculator
+
+A complete business utility for daily shop calculations:
+
+* Chit fund calculations
+* Discount percentage calculator
+* GST addition and removal
+* Fast and accurate billing calculations
+
+## 🚀 Tech Stack
+
+* **Frontend:** React.js
+* **Platform:** Android
+* **Language:** JavaScript
+
+## 🎯 Purpose
+
+This application was developed to simplify day-to-day financial calculations for shop owners and small businesses. Instead of using multiple calculators, users can perform all common finance-related calculations within a single app.
+
+## ✨ Highlights
+
+* Clean and simple user interface
+* Fast calculations
+* Lightweight application
+* Easy to use
+* Designed specifically for Android devices
+
+## 📸 Screenshots
+
+> Add your app screenshots here.
+
+## 🛠️ Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/your-username/finance-calculator.git
+   ```
+
+2. Navigate to the project directory:
+
+   ```bash
+   cd finance-calculator
+   ```
+
+3. Install dependencies:
 
    ```bash
    npm install
    ```
 
-2. Start the app
+4. Start the project:
 
    ```bash
-   npx expo start
+   npm start
    ```
 
-In the output, you'll find options to open the app in a
+5. Build and run the Android application.
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+## 📂 Project Structure
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
+```text
+src/
+├── components/
+├── screens/
+├── utils/
+├── assets/
+└── App.js
 ```
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+## 🤝 Contributions
 
-## Learn more
+Contributions, suggestions, and improvements are always welcome. Feel free to fork the repository and submit a pull request.
 
-To learn more about developing your project with Expo, look at the following resources:
+## 📄 License
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+This project is available under the MIT License.
 
-## Join the community
+---
 
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
-=======
-# FinanceCalculator
->>>>>>> 7980939e37402b4d1cdcd5766966c4ef5a125dd1
+Made with ❤️ to simplify everyday finance calculations.
