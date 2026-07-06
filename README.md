@@ -11,7 +11,7 @@ The app provides multiple financial calculators in one place:
 * Calculate simple interest instantly.
 * Quick and easy input for principal amount, interest rate, and time.
 
-### 🏦 EMI Calculator
+### 🏦 EMI Calculator(ON GOING)
 
 * Calculate future EMI payments based on:
 
